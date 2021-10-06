@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Act02Video</string>
+    <string name="tvFirstScreen">Hola Carlos !</string>
+    <string name="btNextActivity" >Next Activity... </string>
+    <string name="btNextActivity2">Next Activity2...</string>
+    <string name="naText">Este es el texto de la segunda Activity</string>
+</resources>
