@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activtiy_u3_t1_inital_app"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="189dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="49dp"
+        android:layout_marginEnd="195dp"
+        android:layout_marginBottom="124dp"
+        android:text="@string/reset_elements"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvDisplay"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <Button
+        android:id="@+id/buttonDecrease"
+        android:layout_width="206dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/decrease_one_element"
+        app:layout_constraintBottom_toTopOf="@+id/buttonDecrease2"
+        app:layout_constraintEnd_toStartOf="@+id/buttonReset"
+        app:layout_constraintStart_toStartOf="@+id/buttonDecrease2"
+        app:layout_constraintTop_toBottomOf="@+id/buttonIncrese2" />
+
+    <Button
+        android:id="@+id/buttonIncrese"
+        android:layout_width="203dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/increase_one_element"
+        app:layout_constraintBottom_toTopOf="@+id/buttonIncrese2"
+        app:layout_constraintEnd_toStartOf="@+id/tvDisplay"
+        app:layout_constraintStart_toStartOf="@+id/buttonIncrese2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+    <Button
+        android:id="@+id/buttonIncrese2"
+        android:layout_width="207dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/increase_two_elements_land"
+        app:layout_constraintBottom_toTopOf="@+id/buttonDecrease"
+        app:layout_constraintEnd_toStartOf="@+id/buttonReset"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonDecrease"
+        app:layout_constraintTop_toBottomOf="@+id/buttonIncrese" />
+
+    <Button
+        android:id="@+id/buttonDecrease2"
+        android:layout_width="211dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="468dp"
+        android:layout_marginBottom="76dp"
+        android:text="@string/decrease_two_elements_land"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDecrease" />
+
+    <TextView
+        android:id="@+id/tvDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="208dp"
+        android:layout_marginBottom="49dp"
+        android:text="@string/number_of_elements"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonReset"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="340dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

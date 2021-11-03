@@ -1,0 +1,7 @@
+dam/carlosbarrionuevo/u3t1initialapp/BuildConfig.java
+ dam.carlosbarrionuevo.u3t1initialapp.BuildConfig
+dam/carlosbarrionuevo/u3t1initialapp/SplashActivity.java
+ dam.carlosbarrionuevo.u3t1initialapp.SplashActivity
+ dam.carlosbarrionuevo.u3t1initialapp.SplashActivity$1
+dam/carlosbarrionuevo/u3t1initialapp/MainActivity.java
+ dam.carlosbarrionuevo.u3t1initialapp.MainActivity
