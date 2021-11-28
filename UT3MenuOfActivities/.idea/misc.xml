@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app/app_ejercicios/src/main/res/layout/activity_main.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app/src/main/res/layout/activity_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app/src/main/res/layout/activity_2.xml" value="0.4" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app/src/main/res/layout/activity_3.xml" value="0.264" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout-land/activity_item_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout/activity_1.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout/activity_item_detail.xml" value="0.4" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout/item_lista.xml" value="0.35224274406332456" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ejercicio/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_ejercicio/src/main/res/layout/elemento_lista.xml" value="0.1" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_extra/src/main/res/layout/activity_item_detail.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_extra/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Karlo/AndroidStudioProjects/UT3MenuOfActivities/app_extra/src/main/res/layout/item_exemple.xml" value="0.4426807760141093" />
+        <entry key="..\:/Users/Karlo/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/activity_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Karlo/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/david/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout-land/activity_item_detail.xml" value="0.4" />
+        <entry key="..\:/Users/david/AndroidStudioProjects/UT3MenuOfActivities/app_ej/src/main/res/layout/activity_item_detail.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
