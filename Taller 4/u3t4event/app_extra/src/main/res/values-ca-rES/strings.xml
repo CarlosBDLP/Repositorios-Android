@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">u3t4event</string>
+    <string name="tvNewEvent">Nou Event</string>
+    <string name="etEventName">Escriu el nom de L\'event</string>
+    <string name="tvCurrentData">Dades actuals</string>
+    <string name="btEditEventData">Editar les dades de l\'event</string>
+    <string name="title_activity_event_data">Dades de l\'event</string>
+    <string name="tvPriority">Prioritat</string>
+    <string name="rbLow">Baixa</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">Alta</string>
+    <string name="tvDataTime">Modifica les dades y l\'hora</string>
+    <string name="btAccept">aceptar</string>
+    <string name="btCancel">Cancelar</string>
+    <string name="tvEventName">Nou Event</string>
+    <string name="place">Lloc</string>
+    <string name="textoFecha">Selecciona la data</string>
+    <string name="botonFecha">Data</string>
+    <string name="textoHora">Selecciona l\'hora</string>
+    <string name="botonHora">Hora</string>
+    <string name="tv_Fecha">Data</string>
+    <string name="tv_hora">Hora</string>
+</resources>

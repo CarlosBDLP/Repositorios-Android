@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">u3t4event</string>
+    <string name="tvNewEvent">New Event</string>
+    <string name="etEventName">Type an event name</string>
+    <string name="tvCurrentData">Current Data</string>
+    <string name="btEditEventData">Edit Event Data</string>
+    <string name="title_activity_event_data">Event Data</string>
+    <string name="tvPriority">Priority</string>
+    <string name="rbLow">Low</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">High</string>
+    <string name="tvDataTime">Set Data and Time</string>
+    <string name="btAccept">ACCEPT</string>
+    <string name="btCancel">Cancel</string>
+    <string name="tvEventName">New Event</string>
+    <string name="place">Place</string>
+    <string name="textoFecha">Select Date</string>
+    <string name="botonFecha">Date</string>
+    <string name="textoHora">Select Time</string>
+    <string name="botonHora">Hour</string>
+    <string name="tv_hora">Time</string>
+    <string name="tv_Fecha">Date</string>
+    <!-- TODO idiomas -->
+<!-- TODO  n2 ARRAY STRINGS EN XML-->
+<!--    array de strings -->
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
